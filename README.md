@@ -66,7 +66,7 @@ node index.js
 
 ```
 # This will throw an error
-git clone https://github.com/sramam/app1
+git clone https://github.com/sramam/app2
 npm i
 node index.js 
 
